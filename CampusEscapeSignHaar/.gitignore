@@ -1,0 +1,7 @@
+dataset/
+training/
+*.vec
+*.log
+result.jpg
+__pycache__/
+*.pyc
